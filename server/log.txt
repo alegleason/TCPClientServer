@@ -1,0 +1,1470 @@
+Se ha establecido conexión con el cliente: 2019-12-2 17:18:24 127.0.0.1 
+Se ha establecido conexión con el cliente: 2019-12-2 17:18:24 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 17:18:24 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 17:18:24 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 17:18:24 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 17:18:24 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 17:18:25 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:25 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:26 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:18:26 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:18:28 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:28 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:18:26 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:26 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:18:29 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:29 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:18:29 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpge
+Respuesta enviada al cliente: 2019-12-2 17:18:29 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:30 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg�����
+Respuesta enviada al cliente: 2019-12-2 17:18:30 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:32 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:32 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:18:32 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:18:32 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:18:33 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:33 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3/imagen3_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:18:34 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:34 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:34 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:34 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:35 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:35 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3/imagen3_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:18:35 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg�����
+Respuesta enviada al cliente: 2019-12-2 17:18:35 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:36 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:36 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:38 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:18:38 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:18:38 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:38 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:39 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:39 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:18:40 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:40 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:41 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:18:41 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:18:39 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg����
+Respuesta enviada al cliente: 2019-12-2 17:18:39 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:42 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:42 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:18:42 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:42 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:43 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:43 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:43 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:18:43 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:18:45 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:45 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:18:45 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:45 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:46 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:46 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:18:47 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:47 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:18:49 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:49 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3/imagen3_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:18:50 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:18:50 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 17:18:52 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:18:52 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:52 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:18:52 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:18:55 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:18:55 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:18:54 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:18:54 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 17:18:57 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 17:18:57 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 17:18:56 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 17:18:56 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 17:18:59 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:18:59 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:18:59 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 17:18:59 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 17:19:0 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 17:19:0 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 17:19:1 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:19:1 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:19:1 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:19:1 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:19:4 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:19:4 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:19:5 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:5 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:19:4 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:19:4 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:19:7 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:19:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:19:7 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 17:19:7 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 17:19:8 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:8 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:19:8 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:8 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:19:10 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 17:19:10 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 17:19:11 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 17:19:11 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 17:19:12 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:19:12 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:19:11 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:19:11 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:19:13 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:19:13 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:19:14 127.0.0.1 código: 103 parámetro: Adios
+Comando recibido por el cliente: 2019-12-2 17:19:13 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 17:19:16 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 17:19:16 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 17:19:16 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 17:19:19 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:19 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:19:21 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:21 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:19:24 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:24 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:19:25 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:25 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:19:27 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:19:27 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:19:30 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:19:30 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:19:31 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:31 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:19:34 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:19:34 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:19:36 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:36 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:19:38 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:38 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:19:41 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:41 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:19:44 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:44 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:19:47 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:47 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:19:49 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:49 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:19:50 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:19:50 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:19:51 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 17:19:51 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 17:19:54 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:54 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:19:57 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:19:57 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:20:0 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:20:0 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:20:1 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:20:1 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:20:2 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:20:2 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:20:5 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 17:20:5 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 17:20:6 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:20:6 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:20:8 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 17:20:8 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 17:20:11 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:20:11 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:20:13 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:20:13 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:20:16 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:20:16 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:20:19 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 17:38:24 127.0.0.1 
+Se ha establecido conexión con el cliente: 2019-12-2 17:38:24 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 17:38:24 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 17:38:24 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 17:38:24 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 17:38:24 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 17:38:26 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:26 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:38:25 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:38:25 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:38:28 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:38:27 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:27 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Respuesta enviada al cliente: 2019-12-2 17:38:28 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:38:29 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:38:29 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:38:29 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:29 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 17:38:32 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:32 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:38:32 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:32 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:38:34 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:34 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:38:36 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:36 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:38:35 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:35 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:38:37 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:37 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:38:37 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:37 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:38:40 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:40 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 17:38:39 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:39 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:38:41 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:41 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 17:38:42 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:42 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:38:41 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:41 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 17:38:43 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:43 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:38:44 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:44 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 17:38:44 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:44 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 17:38:46 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:46 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:38:46 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:46 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:38:47 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:38:47 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:38:48 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:48 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:38:49 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:49 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:38:52 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:38:52 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:38:51 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:38:51 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:38:53 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:38:53 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:38:53 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:38:53 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:38:54 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:38:54 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:38:56 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:56 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:38:55 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:38:55 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:38:57 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:38:57 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:38:57 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 17:38:57 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 17:38:59 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:38:59 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:38:59 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:38:59 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 17:39:2 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:39:2 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:39:2 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:39:2 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:39:5 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:39:5 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:39:5 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:39:5 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 17:39:6 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:39:6 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:39:6 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:6 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:39:7 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:39:7 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 17:39:7 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:39:7 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 17:39:10 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:39:10 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:39:9 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:9 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:39:11 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:11 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:39:12 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 17:39:12 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 17:39:14 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:39:14 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:39:13 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:39:13 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:39:15 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:39:15 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:39:16 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:16 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:39:18 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:39:18 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:39:18 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 17:39:19 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 17:39:19 127.0.0.1 código: 103 parámetro: Adios
+Comando recibido por el cliente: 2019-12-2 17:39:19 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 17:39:19 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 17:39:21 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:21 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 17:39:24 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:39:24 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:39:25 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:25 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:39:26 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:26 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 17:39:29 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:29 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:39:32 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:32 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3/imagen3_y.jpg
+Comando recibido por el cliente: 2019-12-2 17:39:34 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:39:34 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:39:35 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 17:39:35 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 17:39:36 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:36 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:39:39 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:39 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 17:39:41 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:41 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:39:44 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:44 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:39:46 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:46 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:39:47 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:47 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 17:39:48 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:48 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 17:39:51 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 17:39:51 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 17:39:52 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 17:39:52 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 17:39:54 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:39:54 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:39:55 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:55 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:39:58 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:39:58 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:39:59 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:39:59 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:40:1 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 17:40:1 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 17:40:3 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 17:40:3 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 17:40:5 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 17:40:5 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 17:40:7 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 17:40:7 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 17:40:10 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 17:40:10 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 17:40:13 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 17:40:13 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 17:40:14 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 18:45:41 127.0.0.1 
+Se ha establecido conexión con el cliente: 2019-12-2 18:45:41 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 18:45:41 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 18:45:41 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 18:45:41 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 18:45:41 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 18:45:42 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:45:42 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 18:45:44 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:45:44 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:45:43 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 18:45:43 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 18:45:46 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:45:46 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 18:45:45 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 18:45:45 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:45:47 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 18:45:47 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:45:47 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 18:45:47 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 18:45:50 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Comando recibido por el cliente: 2019-12-2 18:45:48 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 18:45:50 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Respuesta enviada al cliente: 2019-12-2 18:45:48 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 18:45:51 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 18:45:51 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:45:51 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 18:45:52 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:45:51 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Respuesta enviada al cliente: 2019-12-2 18:45:52 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:45:53 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpge
+Respuesta enviada al cliente: 2019-12-2 18:45:53 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:45:53 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 18:45:53 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:45:55 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 18:45:55 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:45:56 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 18:45:56 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 18:45:56 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Respuesta enviada al cliente: 2019-12-2 18:45:56 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 18:45:59 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 18:45:59 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 18:45:59 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpgB0�
+Respuesta enviada al cliente: 2019-12-2 18:45:59 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:46:1 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:1 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3/imagen3_y.jpg
+Comando recibido por el cliente: 2019-12-2 18:46:2 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:2 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 18:46:4 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 18:46:4 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 18:46:5 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:5 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:46:5 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:5 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 18:46:6 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:6 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 18:46:7 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:46:7 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:46:10 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 18:46:10 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 18:46:10 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 18:46:10 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 18:46:12 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:12 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:46:11 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 18:46:11 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 18:46:14 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 18:46:14 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 18:46:14 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 18:46:14 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 18:46:17 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:17 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 18:46:18 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 18:46:18 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:46:17 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 18:46:17 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 18:46:20 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 18:46:20 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 18:46:20 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 18:46:20 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 18:46:23 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 18:46:23 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 18:46:24 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 18:46:24 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 18:46:22 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 18:46:22 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 18:46:25 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:25 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 18:46:25 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 18:46:25 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:46:28 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 18:46:28 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 18:46:28 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:28 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 18:46:29 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 18:46:29 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 18:46:29 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:29 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 18:46:32 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 18:46:32 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 18:46:32 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 18:46:32 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 18:46:35 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 18:46:35 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 18:46:34 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 18:46:34 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:46:36 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 18:46:36 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:46:36 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 18:46:36 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:46:39 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 18:46:40 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 18:46:37 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 18:46:37 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:46:40 127.0.0.1 código: 103 parámetro: Adios
+Comando recibido por el cliente: 2019-12-2 18:46:40 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 18:46:40 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 18:46:43 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:43 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:46:46 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 18:46:46 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 18:46:48 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:48 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 18:46:49 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:49 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:46:52 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:52 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 18:46:55 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:55 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:46:57 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:57 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 18:46:59 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:46:59 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:47:2 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 18:47:2 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 18:47:4 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:47:4 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:47:5 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 18:47:5 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 18:47:8 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 18:47:8 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:47:11 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:47:11 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:47:14 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 18:47:14 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:47:16 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 18:47:16 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 18:47:18 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:47:18 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 18:47:20 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 18:47:20 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 18:47:22 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:47:22 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 18:47:25 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 18:47:25 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:47:26 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 18:47:26 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 18:47:29 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 18:47:29 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 18:47:30 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:47:30 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 18:47:32 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:47:32 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 18:47:33 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 18:47:33 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 18:47:35 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 18:47:35 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:47:37 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:47:37 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 18:47:38 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:47:38 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 18:47:40 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 18:49:2 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 18:49:2 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 18:49:2 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 18:49:3 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 18:49:3 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:49:4 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 18:49:4 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:49:7 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 18:49:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:49:8 127.0.0.1 código: 101 parámetro: 
+Respuesta enviada al cliente: 2019-12-2 18:49:8 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 18:49:9 127.0.0.1 código: 101 parámetro: 
+Se ha establecido conexión con el cliente: 2019-12-2 18:51:47 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 18:51:47 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 18:51:47 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 18:51:48 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 18:51:48 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 18:51:51 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 18:51:51 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Se ha establecido conexión con el cliente: 2019-12-2 18:52:13 127.0.0.1 
+Se ha establecido conexión con el cliente: 2019-12-2 18:52:13 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 18:52:13 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 18:52:13 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 18:52:14 127.0.0.1 código: 555 parámetro: 
+Respuesta enviada al cliente: 2019-12-2 18:52:14 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 18:52:14 127.0.0.1 código: 555 parámetro: 
+Se ha establecido conexión con el cliente: 2019-12-2 20:9:20 127.0.0.1 
+Se ha establecido conexión con el cliente: 2019-12-2 20:9:20 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 20:9:20 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 20:9:20 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 20:9:20 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 20:9:20 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 20:9:21 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:21 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:9:23 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 20:9:23 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 20:9:24 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 20:9:24 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 20:9:25 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 20:9:25 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 20:9:28 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:28 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:9:26 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:26 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 20:9:29 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:29 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:9:29 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:29 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:9:32 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 20:9:32 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 20:9:34 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:9:32 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:34 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:32 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3/imagen3_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:9:35 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:35 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:9:35 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:35 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3/imagen3_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:9:36 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:36 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:9:36 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:36 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:9:37 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:37 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:9:38 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:38 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 20:9:40 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:40 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:9:39 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:39 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:9:41 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:41 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:9:41 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:41 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:9:44 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:44 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:9:44 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg+�
+Respuesta enviada al cliente: 2019-12-2 20:9:44 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:9:47 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:47 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3/imagen3_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:9:48 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:48 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:9:47 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg4�+�
+Respuesta enviada al cliente: 2019-12-2 20:9:47 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:9:50 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:50 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3/imagen3_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:9:50 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:50 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:9:51 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:51 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 20:9:52 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:52 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 20:9:53 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:53 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 20:9:55 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:55 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 20:9:55 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:55 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 20:9:56 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:9:56 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 20:9:57 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 20:9:57 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:9:58 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 20:9:58 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 20:9:58 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 20:9:58 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:10:1 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:1 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 20:10:0 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 20:10:0 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 20:10:2 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 20:10:2 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 20:10:2 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:2 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 20:10:3 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 20:10:3 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 20:10:5 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 20:10:5 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:10:5 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 20:10:5 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 20:10:8 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 20:10:8 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 20:10:7 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 20:10:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:10:9 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 20:10:9 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 20:10:9 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 20:10:9 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:10:10 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 20:10:10 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 20:10:10 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 20:10:10 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 20:10:12 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 20:10:12 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:10:14 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:14 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 20:10:13 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 20:10:13 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:10:15 127.0.0.1 código: 103 parámetro: Adios
+Comando recibido por el cliente: 2019-12-2 20:10:16 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:16 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 20:10:18 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 20:10:19 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 20:10:19 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 20:10:19 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 20:10:20 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg-exec
+Respuesta enviada al cliente: 2019-12-2 20:10:20 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:10:22 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:22 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:10:24 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:24 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:10:25 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:25 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:10:28 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:28 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:10:31 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:31 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:10:34 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:34 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:10:37 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:37 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:10:40 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:40 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:10:43 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:43 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3/imagen3_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:10:45 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:45 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3/imagen3_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:10:47 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:47 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:10:49 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:49 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:10:51 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 20:10:51 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 20:10:53 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:10:53 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:10:56 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 20:10:56 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 20:10:58 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 20:10:58 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:11:0 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 20:11:0 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 20:11:3 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:11:3 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 20:11:4 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 20:11:4 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 20:11:7 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:11:7 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 20:11:8 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 20:11:8 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 20:11:11 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 20:11:11 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 20:11:12 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 20:11:12 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 20:11:15 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 20:11:15 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:11:18 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:11:18 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 20:11:21 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 20:11:21 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 20:11:23 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 20:11:34 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 20:11:34 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 20:11:34 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 20:11:35 127.0.0.1 código: 555 parámetro: 
+Respuesta enviada al cliente: 2019-12-2 20:11:35 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 20:11:37 127.0.0.1 código: 555 parámetro: 
+Se ha establecido conexión con el cliente: 2019-12-2 20:11:44 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 20:11:44 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 20:11:44 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 20:11:46 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:11:46 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:11:48 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:11:48 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:11:49 127.0.0.1 código: 101 parámetro: 
+Respuesta enviada al cliente: 2019-12-2 20:11:49 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:11:50 127.0.0.1 código: 101 parámetro: 
+Se ha establecido conexión con el cliente: 2019-12-2 20:16:32 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 20:16:32 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 20:16:32 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 20:16:34 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:16:34 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:16:36 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:16:36 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:16:37 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 20:16:37 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 20:16:39 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:16:39 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:16:40 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:16:40 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:16:43 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:16:43 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:16:46 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 20:16:46 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 20:16:49 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 20:16:49 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 20:16:50 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:16:50 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:16:53 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 20:16:53 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 20:16:54 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 20:16:54 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 20:16:56 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 20:16:56 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 20:16:57 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:16:57 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:17:0 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:17:0 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:17:3 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:17:3 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 20:17:4 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 20:17:4 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 20:17:6 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:17:6 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 20:17:8 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 20:17:8 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 20:17:9 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:17:9 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 20:17:11 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 20:17:11 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:17:13 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 20:17:13 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:17:16 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 20:17:16 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 20:17:19 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 20:17:19 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 20:17:20 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 20:17:20 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 20:17:23 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 20:17:23 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 20:17:26 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 20:17:26 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 20:17:27 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 20:17:27 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 20:17:29 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 21:22:29 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 21:22:29 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 21:22:29 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 21:22:30 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 21:22:30 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 21:22:31 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 21:22:31 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 21:22:34 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 21:22:34 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 21:22:37 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 21:22:37 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 21:22:39 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 21:22:39 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 21:22:41 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 21:22:41 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 21:22:44 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 21:22:44 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 21:22:47 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 21:22:47 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 21:22:48 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 21:22:48 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 21:22:49 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 21:22:49 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 21:22:50 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 21:22:50 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 21:22:52 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 21:22:52 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 21:22:55 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 21:22:55 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 21:22:58 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 21:22:58 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 21:22:59 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 21:22:59 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 21:23:2 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 21:23:2 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 21:23:5 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 21:23:5 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 21:23:7 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 21:23:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 21:23:9 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 21:23:9 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 21:23:12 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 21:23:12 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 21:23:15 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 21:23:15 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 21:23:18 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 21:23:18 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 21:23:21 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 21:23:21 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 21:23:24 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 21:23:24 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 21:23:26 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 21:23:26 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 21:23:28 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 21:23:28 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 21:23:30 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 21:23:30 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 21:23:32 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 22:42:57 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 22:42:57 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 22:42:57 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 22:42:59 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 22:42:59 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 22:43:2 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 22:43:2 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 22:43:4 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 22:43:4 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 22:43:5 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 22:43:5 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 22:43:6 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 22:43:6 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 22:43:7 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 22:43:7 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 22:43:10 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 22:43:10 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 22:43:13 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 22:43:13 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 22:43:16 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 22:43:16 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 22:43:17 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 22:43:17 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 22:43:18 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 22:43:18 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 22:43:20 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 22:43:20 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 22:43:23 127.0.0.1 código: 101 parámetro: 
+Respuesta enviada al cliente: 2019-12-2 22:43:23 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 22:43:25 127.0.0.1 código: 101 parámetro: 
+Se ha establecido conexión con el cliente: 2019-12-2 23:10:51 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 23:10:51 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 23:10:51 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 23:10:54 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:10:54 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:10:57 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:10:57 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:11:0 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:11:0 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:11:1 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:11:1 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:11:2 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:11:2 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 23:11:5 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:11:5 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:11:8 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:11:8 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:11:11 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:11:11 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:11:12 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:11:12 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:11:13 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:11:13 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:11:16 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:11:16 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:11:18 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:11:18 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:11:19 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:11:19 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:11:21 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:11:21 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 23:11:22 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:11:22 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:11:25 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:11:25 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:11:26 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:11:26 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:11:28 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:11:28 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:11:31 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:11:31 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:11:33 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:11:33 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 23:11:35 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:11:35 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:11:37 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:11:37 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:11:38 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:11:38 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:11:41 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:11:41 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:11:44 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:11:44 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:11:46 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 23:11:46 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 23:11:48 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:11:48 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:11:50 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 23:12:22 127.0.0.1 
+Se ha establecido conexión con el cliente: 2019-12-2 23:12:22 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 23:12:22 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 23:12:22 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 23:12:22 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 23:12:22 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 23:12:23 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:23 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 23:12:26 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 23:12:26 127.0.0.1 código: 103 parámetro: Adios
+Comando recibido por el cliente: 2019-12-2 23:12:25 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:25 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3/imagen3_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 23:12:27 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 23:12:27 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 23:12:27 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 23:12:28 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:28 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:12:30 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 23:12:30 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 23:14:43 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 23:14:43 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 23:14:43 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 23:14:45 127.0.0.1 código: 555 parámetro: 
+Respuesta enviada al cliente: 2019-12-2 23:14:45 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 23:14:45 127.0.0.1 código: 555 parámetro: 
+Se ha establecido conexión con el cliente: 2019-12-2 23:14:54 127.0.0.1 
+Se ha establecido conexión con el cliente: 2019-12-2 23:14:54 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 23:14:54 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 23:14:54 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 23:14:54 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 23:14:54 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 23:14:55 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:55 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3/imagen3_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/imagen1_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 23:14:56 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 103 parámetro: Adios
+Comando recibido por el cliente: 2019-12-2 23:14:56 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 23:14:56 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 23:14:58 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:58 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 205 mensaje: La ruta es un directorio
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 201 mensaje: Permiso denegado
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 301 mensaje: /Users/alejandrogleason/Downloads/server/raiz/imagen2_y.jpg
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1/dir3
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 302 mensaje: /Users/alejandrogleason/Downloads/server/raiz/dir1
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:14:59 127.0.0.1 código: 207 mensaje: La ruta no es un directorio
+Comando recibido por el cliente: 2019-12-2 23:14:59 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 23:16:1 127.0.0.1 
+Se ha establecido conexión con el cliente: 2019-12-2 23:16:1 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 23:16:1 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 23:16:1 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 23:16:1 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 23:16:1 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 23:16:3 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:3 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 101 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 103 parámetro: Adios
+Se ha establecido conexión con el cliente: 2019-12-2 23:16:5 127.0.0.1 
+Comando recibido por el cliente: 2019-12-2 23:16:5 127.0.0.1 código: 555 parámetro: NO EXISTE
+Respuesta enviada al cliente: 2019-12-2 23:16:5 127.0.0.1 código: 204 mensaje: Comando no conocido
+Comando recibido por el cliente: 2019-12-2 23:16:4 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:4 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen7_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /dir1/dir3
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 103 parámetro: Adios
+Comando recibido por el cliente: 2019-12-2 23:16:6 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:6 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /dir1/imagen8_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /dir1/imagen1_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /dir1/dir3/imagen3_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /imagen4_n.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 101 parámetro: /noexiste.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 202 mensaje: Archivo no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /noexiste
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: /imagen2_y.jpg
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 206 mensaje: Directorio no encontrado
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 102 parámetro: dir1
+Respuesta enviada al cliente: 2019-12-2 23:16:7 127.0.0.1 código: 203 mensaje: La ruta debe empezar con / sin secuencias de ..
+Comando recibido por el cliente: 2019-12-2 23:16:7 127.0.0.1 código: 103 parámetro: Adios
